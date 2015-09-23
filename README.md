@@ -1,2 +1,2 @@
 # DevDataProducts
-#   Developing Data Products by Coursera
+Developing Data Products by Coursera
